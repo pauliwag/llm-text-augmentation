@@ -1,0 +1,112 @@
+{
+  "originals": [
+    {
+      "text": "Modern Pentathlon: Voros Wins Women's Gold  ATHENS (Reuters) - Hungary's Zsuzsanna Voros won the gold  medal in the women's modern pentathlon in Athens Friday to add  the Olympic title to her three world championships.",
+      "label": "Sports"
+    },
+    {
+      "text": "When Long Hours at a Video Game Stop Being Fun For players with ambitions to develop games, Electronic Arts must appear to be the best place in the world, but there is unhappiness among those living that dream.",
+      "label": "Sci/Tech"
+    },
+    {
+      "text": "Huskies upset Gophers in OT The Washington women #39;s basketball team played a thriller at Hec Edmundson Pavilion last night, coming from behind to defeat Minnesota in overtime 72-67.",
+      "label": "Sports"
+    },
+    {
+      "text": "Pre-Election Tensions Mount in Florida (AP) AP - Pre-election tensions mounted Thursday in Florida amid claims of voter intimidation, promises that absentee ballots will reach the Broward County citizens who are missing them, and concerns that Republicans will question the authenticity of thousands of votes on Election Day.",
+      "label": "World"
+    },
+    {
+      "text": "Window Dressing for Nudists Cosmetically altered mutual funds don't make sense -- and they're ugly, too.",
+      "label": "Business"
+    }
+  ],
+  "eda": [
+    {
+      "text": "bodoni Pentathlon: Voros profits Women's Gold ATHENS (Reuters) - Hungary's Zsuzsanna Voros gain the gold medal in the women's modern pentathlon in Athens Friday to add the Olympic title to her three world championships.",
+      "label": "Sports"
+    },
+    {
+      "text": "When Long Hours at a television biz Stop Being Fun For players with ambitions to break games, Electronic Arts must appear to be the best place in the world, but there is unhappiness among those living that dream.",
+      "label": "Sci/Tech"
+    },
+    {
+      "text": "Huskies upset Gophers in OT The wa women #39;s basketball team played a thriller at Hec Edmundson Pavilion last night, coming from behind to defeat Minnesota in overtime 72-67.",
+      "label": "Sports"
+    },
+    {
+      "text": "Pre-Election tenseness Mount in Florida (AP) AP - Pre-election tensions mounted Thursday in Florida amid claims of voter intimidation, promises that absentee ballots will reach the Broward County citizens who are missing them, and concerns that Republicans will wonder the authenticity of m of votes on Election Day.",
+      "label": "World"
+    },
+    {
+      "text": "Window Dressing for Nudists Cosmetically altered mutual funds don't make sensation -- and they're ugly, too.",
+      "label": "Business"
+    }
+  ],
+  "backtranslation": [
+    {
+      "text": "Modern Pentathlon: Voros wins Women's Gold ATHENS (Reuters) - Zsuzsanna Voros, Hungarian, won the gold medal in the modern women's pentathlon in Athens on Friday to add the Olympic title to her three world championships.",
+      "label": "Sports"
+    },
+    {
+      "text": "When long hours to a video game Stop Being Fun For players who have the ambition to develop games, Electronic Arts must seem to be the best place in the world, but there is misfortune among those who live this dream.",
+      "label": "Sci/Tech"
+    },
+    {
+      "text": "The Huskies upset Gophers in OT The Washington basketball team #39 played a thriller at the Hec Edmundson Pavilion last night, coming from behind to defeat Minnesota in overtime 72-67.",
+      "label": "Sports"
+    },
+    {
+      "text": "Pre-election Tension Mount in Florida (AP) AP - Pre-election tensions in Florida on Thursday in the midst of demands for electoral intimidation, promises that absent votes will reach those citizens of Broward County who miss them, and fears that Republicans will question the authenticity of thousands of votes on election day.",
+      "label": "World"
+    },
+    {
+      "text": "Window Dress for nudists Mutual funds altered by cosmetics don't make sense -- and they're ugly, too.",
+      "label": "Business"
+    }
+  ],
+  "llm_paraphrase": [
+    {
+      "text": "Tensions are escalating in Florida ahead of the election, with reports of voter intimidation, assurances that absentee ballots will be delivered to residents in Broward County who haven\u2019t received theirs, and growing worries that Republican officials may challenge the validity of tens of thousands of votes cast on Election Day.",
+      "label": "World"
+    },
+    {
+      "text": "ATHENS (Reuters) \u2013 Zsuzsanna Voros of Hungary claimed the gold medal in the women\u2019s modern pentathlon at the Athens Olympics, securing her first Olympic title to go alongside her three previous world championship victories.",
+      "label": "Sports"
+    },
+    {
+      "text": "For aspiring game developers, Electronic Arts might seem like the ultimate destination, yet behind the dream lies growing discontent among those working there.",
+      "label": "Sci/Tech"
+    },
+    {
+      "text": "In a dramatic overtime showdown at Hec Edmundson Pavilion, the Washington women\u2019s basketball team staged a remarkable comeback to edge out Minnesota, winning 72-67.",
+      "label": "Sports"
+    },
+    {
+      "text": "Mutual funds that are artificially adjusted for presentation purposes are illogical and unattractive.",
+      "label": "Business"
+    }
+  ],
+  "llm_few_shot": [
+    {
+      "text": "Lakers Edge Warriors in Overtime Thriller  \nLOS ANGELES (AP) \u2014 The Los Angeles Lakers outlasted the Golden State Warriors in a hard-fought overtime battle at Crypto.com Arena, winning 124-121. Down by five with two minutes left in regulation, Anthony Davis hit a clutch three-pointer to force overtime, then sealed the game with a putback dunk in the extra period. LeBron James recorded his 10th triple-double of the season with 28 points, 12 rebounds, and 11 assists, while rookie point guard D'Angelo Russell added 24 points and a key steal in the closing seconds. The victory keeps the Lakers in the Western Conference playoff race, while the Warriors\u2019 hopes for a top seed take a hit.",
+      "label": "Sports"
+    },
+    {
+      "text": "Global Climate Summit Reaches Historic Agreement on Methane Emissions (Reuters) \u2013 In a landmark decision, nearly 100 nations agreed Thursday to implement binding targets to cut methane emissions by 30% by 2030, marking the most significant international climate pact since the Paris Agreement. The deal, finalized at the COP28 summit in Dubai, includes financial incentives for developing countries to adopt cleaner energy technologies and establishes a global monitoring system to track methane leaks from oil and gas operations. Environmental groups hailed the agreement as a turning point, while some fossil fuel-producing nations expressed concern over the economic impact. The accord now moves to individual ratification by national governments, with implementation expected to begin next year.",
+      "label": "World"
+    },
+    {
+      "text": "Tennis: Djokovic Claims Masters Title in Thrilling Final  \nMADRID (AP) \u2013 Novak Djokovic captured the Madrid Open title with a hard-fought 6-4, 3-6, 7-6(5) victory over Carlos Alcaraz in the final. The Serbian champion overcame a spirited challenge from the young Spaniard in a match that lasted two hours and 41 minutes, securing his 37th ATP Masters 1000 title and extending his dominance on clay. The win marks Djokovic\u2019s second title in Madrid, following his 2011 triumph, and brings his career tally to 93 ATP titles.",
+      "label": "Sports"
+    },
+    {
+      "text": "When AI-Powered Diagnostics Outperform Doctors, Patients Demand Transparency as Algorithms Begin Replacing Radiologists, Neurologists, and Pathologists in Hospitals Across Europe\u2014raising questions about accountability, bias, and the future of medical expertise.",
+      "label": "Sci/Tech"
+    },
+    {
+      "text": "Stock Market Jitters as Algorithmic Trading Glitches Turn Bulls into Butterflies",
+      "label": "Business"
+    }
+  ]
+}

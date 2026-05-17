@@ -1,0 +1,342 @@
+{
+  "eda": {
+    "helped": [
+      {
+        "text": "Calif. Aims to Limit Farm-Related Smog (AP) AP - Southern California's smog-fighting agency went after emissions of the bovine variety Friday, adopting the nation's first rules to reduce air pollution",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Business",
+        "augmented_pred": "Sci/Tech"
+      },
+      {
+        "text": "Fischer's Fiancee: Marriage Plans Genuine (AP) AP - Former chess champion Bobby Fischer's announcement thathe is engaged to a Japanese woman could win him sympathy among Japanese officials and help hi",
+        "true_label": "World",
+        "baseline_pred": "Sports",
+        "augmented_pred": "World"
+      },
+      {
+        "text": "Sneaky Credit Card Tactics Keep an eye on your credit card issuers -- they may be about to raise your rates.",
+        "true_label": "Business",
+        "baseline_pred": "Sci/Tech",
+        "augmented_pred": "Business"
+      },
+      {
+        "text": "Stocks Climb on Drop in Consumer Prices NEW YORK - Stocks rose for a second straight session Tuesday as a drop in consumer prices allowed investors to put aside worries about inflation, at least for t",
+        "true_label": "World",
+        "baseline_pred": "Business",
+        "augmented_pred": "World"
+      },
+      {
+        "text": "Security scare as intruder dives in A CANADIAN husband #39;s love for his wife has led to a tightening of security at all Olympic venues in Athens. ",
+        "true_label": "Sports",
+        "baseline_pred": "World",
+        "augmented_pred": "Sports"
+      }
+    ],
+    "hurt": [
+      {
+        "text": "IBM to hire even more new workers By the end of the year, the computing giant plans to have its biggest headcount since 1991.",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Sci/Tech",
+        "augmented_pred": "Business"
+      },
+      {
+        "text": "Some People Not Eligible to Get in on Google IPO Google has billed its IPO as a way for everyday people to get in on the process, denying Wall Street the usual stranglehold it's had on IPOs. Public bi",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Sci/Tech",
+        "augmented_pred": "Business"
+      },
+      {
+        "text": "Jury Can Hear of Kobe Accuser's Sex Life (AP) AP - Prosecutors suffered another setback Monday in the Kobe Bryant sexual assault case, losing a last-ditch attempt to keep the NBA star's lawyers from t",
+        "true_label": "Sports",
+        "baseline_pred": "Sports",
+        "augmented_pred": "World"
+      },
+      {
+        "text": "Greek sprinters arrive at IOC hearing ATHENS (Reuters) - Greek sprinters Costas Kenteris and Katerina Thanou have arrived at an Athens hotel for an International Olympic Committee (IOC) hearing into t",
+        "true_label": "Sports",
+        "baseline_pred": "Sports",
+        "augmented_pred": "World"
+      },
+      {
+        "text": "Stunt pilots to save sun dust IT PROMISES to be a scene worthy of a science fiction spectacular. A space probe carrying primordial material scooped from outer space starts to plunge towards our planet",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Sci/Tech",
+        "augmented_pred": "World"
+      }
+    ],
+    "n_helped_total": 200,
+    "n_hurt_total": 157
+  },
+  "backtranslation": {
+    "helped": [
+      {
+        "text": "Calif. Aims to Limit Farm-Related Smog (AP) AP - Southern California's smog-fighting agency went after emissions of the bovine variety Friday, adopting the nation's first rules to reduce air pollution",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Business",
+        "augmented_pred": "Sci/Tech"
+      },
+      {
+        "text": "Dell Exits Low-End China Consumer PC Market  HONG KONG (Reuters) - Dell Inc. &lt;DELL.O&gt;, the world's  largest PC maker, said on Monday it has left the low-end  consumer PC market in China and cut ",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Business",
+        "augmented_pred": "Sci/Tech"
+      },
+      {
+        "text": "Sneaky Credit Card Tactics Keep an eye on your credit card issuers -- they may be about to raise your rates.",
+        "true_label": "Business",
+        "baseline_pred": "Sci/Tech",
+        "augmented_pred": "Business"
+      },
+      {
+        "text": "Stocks Climb on Drop in Consumer Prices NEW YORK - Stocks rose for a second straight session Tuesday as a drop in consumer prices allowed investors to put aside worries about inflation, at least for t",
+        "true_label": "World",
+        "baseline_pred": "Business",
+        "augmented_pred": "World"
+      },
+      {
+        "text": "Security scare as intruder dives in A CANADIAN husband #39;s love for his wife has led to a tightening of security at all Olympic venues in Athens. ",
+        "true_label": "Sports",
+        "baseline_pred": "World",
+        "augmented_pred": "Sports"
+      }
+    ],
+    "hurt": [
+      {
+        "text": "Some People Not Eligible to Get in on Google IPO Google has billed its IPO as a way for everyday people to get in on the process, denying Wall Street the usual stranglehold it's had on IPOs. Public bi",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Sci/Tech",
+        "augmented_pred": "Business"
+      },
+      {
+        "text": "1994 Law Designed to Preserve Guard Jobs (AP) AP - A 1994 law strengthened job protections for National Guard and Reserve troops called to active duty. Here are major provisions of the Uniformed Servi",
+        "true_label": "World",
+        "baseline_pred": "World",
+        "augmented_pred": "Sci/Tech"
+      },
+      {
+        "text": "Spam suspension hits Sohu.com shares (FT.com) FT.com - Shares in Sohu.com, a leading US-listed Chinese internet portal, fell more than 10 per cent on Friday after China's biggest mobile phone network ",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Sci/Tech",
+        "augmented_pred": "Business"
+      },
+      {
+        "text": "Jury Can Hear of Kobe Accuser's Sex Life (AP) AP - Prosecutors suffered another setback Monday in the Kobe Bryant sexual assault case, losing a last-ditch attempt to keep the NBA star's lawyers from t",
+        "true_label": "Sports",
+        "baseline_pred": "Sports",
+        "augmented_pred": "World"
+      },
+      {
+        "text": "Greek sprinters arrive at IOC hearing ATHENS (Reuters) - Greek sprinters Costas Kenteris and Katerina Thanou have arrived at an Athens hotel for an International Olympic Committee (IOC) hearing into t",
+        "true_label": "Sports",
+        "baseline_pred": "Sports",
+        "augmented_pred": "World"
+      }
+    ],
+    "n_helped_total": 217,
+    "n_hurt_total": 159
+  },
+  "llm_zero_shot": {
+    "helped": [
+      {
+        "text": "Schrder adopts Russian orphan Three-year-old Victoria, from St Petersburg, has been living at the Schrders #39; family home in Hanover in northern Germany for several weeks. ",
+        "true_label": "World",
+        "baseline_pred": "Sports",
+        "augmented_pred": "World"
+      },
+      {
+        "text": "Immigrants settled in big cities, but less likely to find work: StatsCan (Canadian Press) Canadian Press - OTTAWA (CP) - Most of the nearly two million immigrants who arrived in Canada during the 1990",
+        "true_label": "World",
+        "baseline_pred": "Business",
+        "augmented_pred": "World"
+      },
+      {
+        "text": "Strong Family Equals Strong Education Single mothers, poverty were big factors in school performance    HealthDayNews -- American teenagers who live with poor single mothers are more likely to get int",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Business",
+        "augmented_pred": "Sci/Tech"
+      },
+      {
+        "text": "Scandal won #39;t go away ATHENS -- It was telling yesterday that the majority of the dozens of journalists who asked questions and attended a news conference into a Greek doping scandal were mostly C",
+        "true_label": "Sports",
+        "baseline_pred": "World",
+        "augmented_pred": "Sports"
+      },
+      {
+        "text": "Oil price down as Iraq fears ease The price of oil has fallen as fears about interruptions to supplies being pumped out of Iraq eased slightly.",
+        "true_label": "Business",
+        "baseline_pred": "World",
+        "augmented_pred": "Business"
+      }
+    ],
+    "hurt": [
+      {
+        "text": "Storage, servers bruise HP earnings update Earnings per share rise compared with a year ago, but company misses analysts' expectations by a long shot.",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Sci/Tech",
+        "augmented_pred": "Business"
+      },
+      {
+        "text": "Man Sought  #36;50M From McGreevey, Aides Say (AP) AP - The man who claims Gov. James E. McGreevey sexually harassed him was pushing for a cash settlement of up to  #36;50 million before the governor ",
+        "true_label": "World",
+        "baseline_pred": "World",
+        "augmented_pred": "Sports"
+      },
+      {
+        "text": "Spam suspension hits Sohu.com shares (FT.com) FT.com - Shares in Sohu.com, a leading US-listed Chinese internet portal, fell more than 10 per cent on Friday after China's biggest mobile phone network ",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Sci/Tech",
+        "augmented_pred": "Business"
+      },
+      {
+        "text": "Vodafone hires Citi for Cesky bid (TheDeal.com) TheDeal.com - The U.K. mobile giant wants to find a way to disentagle the Czech wireless and fixed-line businesses.",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Sci/Tech",
+        "augmented_pred": "Business"
+      },
+      {
+        "text": "Indian state rolls out wireless broadband Government in South Indian state of Kerala sets up wireless kiosks as part of initiative to bridge digital divide.",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Sci/Tech",
+        "augmented_pred": "Business"
+      }
+    ],
+    "n_helped_total": 203,
+    "n_hurt_total": 306
+  },
+  "llm_paraphrase": {
+    "helped": [
+      {
+        "text": "Calif. Aims to Limit Farm-Related Smog (AP) AP - Southern California's smog-fighting agency went after emissions of the bovine variety Friday, adopting the nation's first rules to reduce air pollution",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Business",
+        "augmented_pred": "Sci/Tech"
+      },
+      {
+        "text": "Retailers Vie for Back-To-School Buyers (Reuters) Reuters - Apparel retailers are hoping their\\back-to-school fashions will make the grade among\\style-conscious teens and young adults this fall, but i",
+        "true_label": "Business",
+        "baseline_pred": "Sci/Tech",
+        "augmented_pred": "Business"
+      },
+      {
+        "text": "Dell Exits Low-End China Consumer PC Market  HONG KONG (Reuters) - Dell Inc. &lt;DELL.O&gt;, the world's  largest PC maker, said on Monday it has left the low-end  consumer PC market in China and cut ",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Business",
+        "augmented_pred": "Sci/Tech"
+      },
+      {
+        "text": "Sneaky Credit Card Tactics Keep an eye on your credit card issuers -- they may be about to raise your rates.",
+        "true_label": "Business",
+        "baseline_pred": "Sci/Tech",
+        "augmented_pred": "Business"
+      },
+      {
+        "text": "Stocks Climb on Drop in Consumer Prices NEW YORK - Stocks rose for a second straight session Tuesday as a drop in consumer prices allowed investors to put aside worries about inflation, at least for t",
+        "true_label": "World",
+        "baseline_pred": "Business",
+        "augmented_pred": "World"
+      }
+    ],
+    "hurt": [
+      {
+        "text": "Some People Not Eligible to Get in on Google IPO Google has billed its IPO as a way for everyday people to get in on the process, denying Wall Street the usual stranglehold it's had on IPOs. Public bi",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Sci/Tech",
+        "augmented_pred": "Business"
+      },
+      {
+        "text": "Man Sought  #36;50M From McGreevey, Aides Say (AP) AP - The man who claims Gov. James E. McGreevey sexually harassed him was pushing for a cash settlement of up to  #36;50 million before the governor ",
+        "true_label": "World",
+        "baseline_pred": "World",
+        "augmented_pred": "Business"
+      },
+      {
+        "text": "Surviving Biotech's Downturns Charly Travers offers advice on withstanding the volatility of the biotech sector.",
+        "true_label": "Business",
+        "baseline_pred": "Business",
+        "augmented_pred": "Sci/Tech"
+      },
+      {
+        "text": "Priceline, Ramada to Make Sites More Accessible to Blind In one of the first enforcement actions of the Americans with Disabilities Act on the Internet, two major travel services have agreed to make s",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Sci/Tech",
+        "augmented_pred": "Business"
+      },
+      {
+        "text": "Iraq Oil Exports Still Halved After Basra HQ Attack  BAGHDAD (Reuters) - Iraq continued to export oil at one  million barrels per day on Friday after an attack on the South  Oil Company headquarters t",
+        "true_label": "World",
+        "baseline_pred": "World",
+        "augmented_pred": "Business"
+      }
+    ],
+    "n_helped_total": 226,
+    "n_hurt_total": 199
+  },
+  "llm_few_shot": {
+    "helped": [
+      {
+        "text": "Calif. Aims to Limit Farm-Related Smog (AP) AP - Southern California's smog-fighting agency went after emissions of the bovine variety Friday, adopting the nation's first rules to reduce air pollution",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Business",
+        "augmented_pred": "Sci/Tech"
+      },
+      {
+        "text": "Card fraud unit nets 36,000 cards In its first two years, the UK's dedicated card fraud unit, has recovered 36,000 stolen cards and 171 arrests - and estimates it saved 65m.",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Business",
+        "augmented_pred": "Sci/Tech"
+      },
+      {
+        "text": "Intel to delay product aimed for high-definition TVs SAN FRANCISCO -- In the latest of a series of product delays, Intel Corp. has postponed the launch of a video display chip it had previously planne",
+        "true_label": "Business",
+        "baseline_pred": "Sci/Tech",
+        "augmented_pred": "Business"
+      },
+      {
+        "text": "Security scare as intruder dives in A CANADIAN husband #39;s love for his wife has led to a tightening of security at all Olympic venues in Athens. ",
+        "true_label": "Sports",
+        "baseline_pred": "World",
+        "augmented_pred": "Sports"
+      },
+      {
+        "text": "Kerry-Kerrey Confusion Trips Up Campaign (AP) AP - John Kerry, Bob Kerrey. It's easy to get confused.",
+        "true_label": "World",
+        "baseline_pred": "Sports",
+        "augmented_pred": "World"
+      }
+    ],
+    "hurt": [
+      {
+        "text": "Open Letter Against British Copyright Indoctrination in Schools The British Department for Education and Skills (DfES) recently launched a \"Music Manifesto\" campaign, with the ostensible intention of ",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Sci/Tech",
+        "augmented_pred": "World"
+      },
+      {
+        "text": "Storage, servers bruise HP earnings update Earnings per share rise compared with a year ago, but company misses analysts' expectations by a long shot.",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Sci/Tech",
+        "augmented_pred": "Business"
+      },
+      {
+        "text": "Some People Not Eligible to Get in on Google IPO Google has billed its IPO as a way for everyday people to get in on the process, denying Wall Street the usual stranglehold it's had on IPOs. Public bi",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Sci/Tech",
+        "augmented_pred": "Business"
+      },
+      {
+        "text": "Spam suspension hits Sohu.com shares (FT.com) FT.com - Shares in Sohu.com, a leading US-listed Chinese internet portal, fell more than 10 per cent on Friday after China's biggest mobile phone network ",
+        "true_label": "Sci/Tech",
+        "baseline_pred": "Sci/Tech",
+        "augmented_pred": "Business"
+      },
+      {
+        "text": "Jackson Squares Off With Prosecutor SANTA MARIA, Calif. - Fans of Michael Jackson erupted in cheers Monday as the pop star emerged from a double-decker tour bus and went into court for a showdown with",
+        "true_label": "World",
+        "baseline_pred": "World",
+        "augmented_pred": "Sports"
+      }
+    ],
+    "n_helped_total": 240,
+    "n_hurt_total": 294
+  }
+}
